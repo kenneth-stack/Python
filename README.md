@@ -1,1 +1,1 @@
-Hi, My name is Kenneth Aigbuza; This is my journey to learning python as i aspire to become CLOUD DEVOPS ENGINEER. Feel free to go through my learning practices and projects carried out. i will always update his respository with every project i carry out
+Hi, My name is Kenneth Aigbuza; This is my journey to learning python as i aspire to become CLOUD DEVOPS ENGINEER. Feel free to go through my learning practices and projects carried out. i will always update this respository with every project i carry out
